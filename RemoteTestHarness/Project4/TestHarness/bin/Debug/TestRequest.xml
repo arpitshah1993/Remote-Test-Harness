@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testRequest>
+  <author>Jim Fawcett</author>
+<authortype>Developer</authortype>
+  <test name="First Test">
+    <testDriver>TestDriver1.dll</testDriver>
+    <library>TestCode1.dll</library>
+     </test>
+<test name="Second Test">
+    <testDriver>TestDriver2.dll</testDriver>
+    <library>TestCode2.dll</library>
+     </test>
+</testRequest>

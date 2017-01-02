@@ -1,0 +1,8 @@
+\\mac\home\documents\visual studio 2015\Projects\Project4\TestRequest\bin\Debug\TestRequest.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\TestRequest\bin\Debug\TestRequest.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\TestRequest\obj\Debug\TestRequest.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\TestRequest\obj\Debug\TestRequest.pdb
+\\Mac\Home\Downloads\Project4\TestRequest\bin\Debug\TestRequest.dll
+\\Mac\Home\Downloads\Project4\TestRequest\bin\Debug\TestRequest.pdb
+\\Mac\Home\Downloads\Project4\TestRequest\obj\Debug\TestRequest.dll
+\\Mac\Home\Downloads\Project4\TestRequest\obj\Debug\TestRequest.pdb

@@ -1,0 +1,31 @@
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Executive\bin\Debug\Executive.exe.config
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Executive.dll.config
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Executive.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Executive.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Executive\obj\Debug\Executive.csprojResolveAssemblyReference.cache
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Executive\obj\Debug\Executive.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Executive\obj\Debug\Executive.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\Executive.dll.config
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\Executive.dll
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\Executive.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\Executive\obj\Debug\Executive.csprojResolveAssemblyReference.cache
+C:\Users\ausha\Desktop\Project_2\Executive\Executive\obj\Debug\Executive.dll
+C:\Users\ausha\Desktop\Project_2\Executive\Executive\obj\Debug\Executive.pdb
+\\Mac\Home\Downloads\Project_2\Executive\FileDirectory\Executive.dll.config
+\\Mac\Home\Downloads\Project_2\Executive\FileDirectory\Executive.dll
+\\Mac\Home\Downloads\Project_2\Executive\FileDirectory\Executive.pdb
+\\Mac\Home\Downloads\Project_2\Executive\Executive\obj\Debug\Executive.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Project_2\Executive\Executive\obj\Debug\Executive.dll
+\\Mac\Home\Downloads\Project_2\Executive\Executive\obj\Debug\Executive.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\Executive\obj\Debug\Executive.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\Executive.dll.config
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\Executive.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\Executive.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\Executive\obj\Debug\Executive.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\Executive\obj\Debug\Executive.pdb
+\\Mac\Home\Downloads\Project4\FileDirectory\Executive.dll.config
+\\Mac\Home\Downloads\Project4\FileDirectory\Executive.dll
+\\Mac\Home\Downloads\Project4\FileDirectory\Executive.pdb
+\\Mac\Home\Downloads\Project4\Executive\obj\Debug\Executive.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Project4\Executive\obj\Debug\Executive.dll
+\\Mac\Home\Downloads\Project4\Executive\obj\Debug\Executive.pdb

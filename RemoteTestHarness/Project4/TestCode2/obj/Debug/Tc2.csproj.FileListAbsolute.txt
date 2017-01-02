@@ -1,0 +1,6 @@
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Tc2\bin\Debug\Tc2.dll
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Tc2\bin\Debug\Tc2.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Tc2.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Tc2.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Tc2\obj\Debug\Tc2.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Tc2\obj\Debug\Tc2.pdb

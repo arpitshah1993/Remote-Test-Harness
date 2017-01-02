@@ -1,0 +1,4 @@
+\\Mac\Home\Downloads\Project4\HRTimer\bin\Debug\HRTimer.dll
+\\Mac\Home\Downloads\Project4\HRTimer\bin\Debug\HRTimer.pdb
+\\Mac\Home\Downloads\Project4\HRTimer\obj\Debug\HRTimer.dll
+\\Mac\Home\Downloads\Project4\HRTimer\obj\Debug\HRTimer.pdb

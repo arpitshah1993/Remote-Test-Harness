@@ -1,0 +1,9 @@
+@echo off
+cd "Repository\bin\Debug"
+start Repository.exe
+cd "..\..\..\TestHarness\bin\Debug"
+start TestHarness.exe
+cd "..\..\..\Client1GUI\bin\Debug"
+start Client1GUI.exe
+cd "..\..\..\Client2GUI\bin\Debug"
+start Client2GUI.exe

@@ -1,0 +1,22 @@
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Td1\obj\Debug\TestDriver1.csprojResolveAssemblyReference.cache
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Td1\obj\Debug\TestDriver1.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Td1\obj\Debug\TestDriver1.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\TestDriver1.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\TestDriver1.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\TestDriver1\obj\Debug\TestDriver1.csprojResolveAssemblyReference.cache
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\TestDriver1\obj\Debug\TestDriver1.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\TestDriver1\obj\Debug\TestDriver1.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\TestDriver1.dll
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\TestDriver1.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\TestDriver1\obj\Debug\TestDriver1.csprojResolveAssemblyReference.cache
+C:\Users\ausha\Desktop\Project_2\Executive\TestDriver1\obj\Debug\TestDriver1.dll
+C:\Users\ausha\Desktop\Project_2\Executive\TestDriver1\obj\Debug\TestDriver1.pdb
+\\Mac\Home\Downloads\Project4\TestDriver1\bin\Debug\TestDriver1.dll
+\\Mac\Home\Downloads\Project4\TestDriver1\bin\Debug\TestDriver1.pdb
+\\Mac\Home\Downloads\Project4\TestDriver1\bin\Debug\ITest.dll
+\\Mac\Home\Downloads\Project4\TestDriver1\bin\Debug\TestCode1.dll
+\\Mac\Home\Downloads\Project4\TestDriver1\bin\Debug\ITest.pdb
+\\Mac\Home\Downloads\Project4\TestDriver1\bin\Debug\TestCode1.pdb
+\\Mac\Home\Downloads\Project4\TestDriver1\obj\Debug\TestDriver1.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Project4\TestDriver1\obj\Debug\TestDriver1.dll
+\\Mac\Home\Downloads\Project4\TestDriver1\obj\Debug\TestDriver1.pdb

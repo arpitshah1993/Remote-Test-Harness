@@ -1,0 +1,17 @@
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\ITest.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\ITest.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\ITest\obj\Debug\ITest.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\ITest\obj\Debug\ITest.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\ITest.dll
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\ITest.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\ITest\obj\Debug\ITest.csprojResolveAssemblyReference.cache
+C:\Users\ausha\Desktop\Project_2\Executive\ITest\obj\Debug\ITest.dll
+C:\Users\ausha\Desktop\Project_2\Executive\ITest\obj\Debug\ITest.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\ITest.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\ITest.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\ITest\obj\Debug\ITest.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\ITest\obj\Debug\ITest.pdb
+\\Mac\Home\Downloads\Project4\FileDirectory\ITest.dll
+\\Mac\Home\Downloads\Project4\FileDirectory\ITest.pdb
+\\Mac\Home\Downloads\Project4\ITest\obj\Debug\ITest.dll
+\\Mac\Home\Downloads\Project4\ITest\obj\Debug\ITest.pdb

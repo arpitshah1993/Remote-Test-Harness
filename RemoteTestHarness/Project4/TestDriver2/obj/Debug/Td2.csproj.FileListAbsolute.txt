@@ -1,0 +1,11 @@
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Td2\bin\Debug\Td2.dll
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Td2\bin\Debug\Td2.pdb
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Td2\bin\Debug\ITest.dll
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Td2\bin\Debug\Tc2.dll
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Td2\bin\Debug\ITest.pdb
+c:\users\ausha\onedrive\documents\visual studio 2015\Projects\Executive\Td2\bin\Debug\Tc2.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Td2.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Td2.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Td2\obj\Debug\Td2.csprojResolveAssemblyReference.cache
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Td2\obj\Debug\Td2.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Td2\obj\Debug\Td2.pdb

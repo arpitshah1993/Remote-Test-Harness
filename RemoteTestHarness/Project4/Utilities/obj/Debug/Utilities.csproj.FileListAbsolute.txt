@@ -1,0 +1,18 @@
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\bin\Debug\Utilities.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\bin\Debug\Utilities.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\bin\Debug\ICommService.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\bin\Debug\ICommService.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\obj\Debug\Utilities.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\obj\Debug\Utilities.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\bin\Debug\TestRequest.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\Utilities\bin\Debug\TestRequest.pdb
+\\Mac\Home\Downloads\Project4\Utilities\bin\Debug\Utilities.dll
+\\Mac\Home\Downloads\Project4\Utilities\bin\Debug\Utilities.pdb
+\\Mac\Home\Downloads\Project4\Utilities\bin\Debug\ICommService.dll
+\\Mac\Home\Downloads\Project4\Utilities\bin\Debug\TestRequest.dll
+\\Mac\Home\Downloads\Project4\Utilities\bin\Debug\ICommService.pdb
+\\Mac\Home\Downloads\Project4\Utilities\bin\Debug\TestRequest.pdb
+\\Mac\Home\Downloads\Project4\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Project4\Utilities\obj\Debug\Utilities.dll
+\\Mac\Home\Downloads\Project4\Utilities\obj\Debug\Utilities.pdb

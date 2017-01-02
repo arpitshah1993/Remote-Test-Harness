@@ -1,0 +1,22 @@
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Directory.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\FileDirectory\Directory.pdb
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Directory\obj\Debug\Directory.dll
+C:\Users\ausha\OneDrive\Documents\Visual Studio 2015\Projects\Executive\Directory\obj\Debug\Directory.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\Directory.dll
+C:\Users\ausha\Desktop\Project_2\Executive\FileDirectory\Directory.pdb
+C:\Users\ausha\Desktop\Project_2\Executive\Directory\obj\Debug\Directory.csprojResolveAssemblyReference.cache
+C:\Users\ausha\Desktop\Project_2\Executive\Directory\obj\Debug\Directory.dll
+C:\Users\ausha\Desktop\Project_2\Executive\Directory\obj\Debug\Directory.pdb
+\\Mac\Home\Downloads\Project_2\Executive\FileDirectory\Directory.dll
+\\Mac\Home\Downloads\Project_2\Executive\FileDirectory\Directory.pdb
+\\Mac\Home\Downloads\Project_2\Executive\Directory\obj\Debug\Directory.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\Project_2\Executive\Directory\obj\Debug\Directory.dll
+\\Mac\Home\Downloads\Project_2\Executive\Directory\obj\Debug\Directory.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\Directory.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\FileDirectory\Directory.pdb
+\\mac\home\documents\visual studio 2015\Projects\Project4\Directory\obj\Debug\Directory.dll
+\\mac\home\documents\visual studio 2015\Projects\Project4\Directory\obj\Debug\Directory.pdb
+\\Mac\Home\Downloads\Project4\FileDirectory\Directory.dll
+\\Mac\Home\Downloads\Project4\FileDirectory\Directory.pdb
+\\Mac\Home\Downloads\Project4\Directory\obj\Debug\Directory.dll
+\\Mac\Home\Downloads\Project4\Directory\obj\Debug\Directory.pdb
